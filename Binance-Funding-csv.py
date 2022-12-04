@@ -70,3 +70,5 @@ with open(filename, 'w', newline='') as f:
 print('Success!\nData saved in '+filename)
 print('First funding time registered: '+aux[0]['fundingTime'])
 print('Last funding time registered: '+aux[len(aux)-1]['fundingTime'])
+print('\nCorrections-commentaries-new ideas : matiasgcl@protonmail.com')
+print('\nWas this script useful? A tip (or a thank you if you cant tip) will always be welcome \nEthereum erc20: 0xDc3d1a7566a536CFbcaAeb0CD2a179d78062B4b6')
